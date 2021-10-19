@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.eachteam-con {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  width: 200px;
+  border: 3px solid #475569;
+  border-radius: 10px;
+  background-color: #ffffff33;
+  margin: 5px;
+  height: 80px;
+}
+.teamimg {
+  width: 40px;
+  margin: 5px;
+}
+.teamName {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 5px;
+}

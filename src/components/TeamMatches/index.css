@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.teamMatch-contaniner {
+  padding: 20px;
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.teambannerImg {
+  width: 100%;
+  margin: 5px;
+}
+.latestmatch-text {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 16px;
+  margin: 5px;
+  align-self: flex-start;
+}
+.matchcardCon {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
