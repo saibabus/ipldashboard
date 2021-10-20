@@ -9,6 +9,13 @@
   align-items: center;
   background-size: cover;
 }
+
+@media screen and (min-width: 576px) {
+  .home-container {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  }
+}
+
 .log-text-con {
   display: flex;
   align-items: center;
